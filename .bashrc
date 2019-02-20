@@ -1,10 +1,30 @@
-# Coursework aliases
-alias 485code='cd ~/Documents/eecs485'
-alias 485drive='cd ~/Google\ Drive/UMich/Academics/WN19/EECS\ 485'
-alias 214drive='cd ~/Google\ Drive/UMich/Academics/WN19/MATH\ 214'
+# common commands
+alias q='exit'
+alias c='clear'
+alias h='history'
+alias cs='clear;ls'
+alias p='cat'
+alias lsa='ls -a'
+alias lsl='ls -l'
+alias o=open
 
-# ls aliases
-alias la='ls -a'
+# common directories
+alias home='cd ~'
+alias root='cd /'
 
-# misc aliases
-alias netflix='open https://www.netflix.com'
+# common project folders
+alias src='cd ~/src'
+
+# git
+alias g='git'
+alias st='git status'
+alias com='git commit -m'
+alias clone='git clone'
+alias lg='git log'
+alias all='git add .'
+
+# links
+alias mail='open https://mail.google.com/'
+alias canvas='https://umich.instructure.com/'
+alias netflix='open https://www.netflix.com/'
+
