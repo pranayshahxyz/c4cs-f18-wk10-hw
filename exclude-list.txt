@@ -1,0 +1,5 @@
+update-dotfiles.sh
+exclude-list.txt
+.git*
+README.md
+.vimrc
