@@ -33,8 +33,8 @@ alias lg='git log'
 alias all='git add .'
 
 # apps and links
-alias mail='open https://mail.google.com/u/0/'
-alias umich-mail='open https://mail.google.com/u/1/'
+alias mail='open https://mail.google.com/mail/u/0/'
+alias umich-mail='open https://mail.google.com/mail/u/1/'
 alias gdrive='open ~/Google\ Drive/'
 alias curr-sem='open ~/Google\ Drive/UMich/Academics/WN19'
 alias umich-gdrive='open https://drive.google.com/drive/u/1/my-drive'
