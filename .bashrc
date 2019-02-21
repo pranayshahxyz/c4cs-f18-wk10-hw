@@ -6,6 +6,7 @@ alias cs='clear;ls'
 alias p='cat'
 alias lsa='ls -a'
 alias lsl='ls -l'
+alias lsal='ls -al'
 alias o=open
 
 # common directories
