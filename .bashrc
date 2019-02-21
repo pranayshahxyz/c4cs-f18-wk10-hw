@@ -1,4 +1,5 @@
 # common commands
+alias pls='sudo'
 alias q='exit'
 alias c='clear'
 alias h='history'
@@ -33,10 +34,9 @@ alias all='git add .'
 
 # apps and links
 alias mail='open https://mail.google.com/'
-alias gdrive='open Google\ Drive/'
-alias curr-sem='open ~/Google Drive/UMich/Academics/WN19'
+alias gdrive='open ~/Google\ Drive/'
+alias curr-sem='open ~/Google\ Drive/UMich/Academics/WN19'
 alias umich-gdrive='open https://drive.google.com/drive/u/1/my-drive'
 alias spotify='open -a spotify'
 alias canvas='open https://umich.instructure.com/'
 alias netflix='open https://www.netflix.com/'
-
