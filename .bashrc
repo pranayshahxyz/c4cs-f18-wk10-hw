@@ -31,8 +31,10 @@ alias lg='git log'
 alias all='git add .'
 
 # apps and links
-alias spotify='open -a spotify'
 alias mail='open https://mail.google.com/'
+alias gdrive='open Google\ Drive/'
+alias umich-gdrive='open https://drive.google.com/drive/u/1/my-drive'
+alias spotify='open -a spotify'
 alias canvas='open https://umich.instructure.com/'
 alias netflix='open https://www.netflix.com/'
 
