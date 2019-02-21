@@ -8,6 +8,7 @@ alias lsa='ls -a'
 alias lsl='ls -l'
 alias lsal='ls -al'
 alias o=open
+alias edit-bashrc='subl ~/dotfiles/.bashrc'
 
 # common directories
 alias home='cd ~'
@@ -33,6 +34,7 @@ alias all='git add .'
 # apps and links
 alias mail='open https://mail.google.com/'
 alias gdrive='open Google\ Drive/'
+alias curr-sem='open ~/Google Drive/UMich/Academics/WN19'
 alias umich-gdrive='open https://drive.google.com/drive/u/1/my-drive'
 alias spotify='open -a spotify'
 alias canvas='open https://umich.instructure.com/'
