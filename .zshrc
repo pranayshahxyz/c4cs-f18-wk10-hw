@@ -24,6 +24,7 @@ alias caen='ssh caen'
 # git
 alias st='git status'
 alias com='git commit -a -m'
+alias gp='git pull'
 alias gl='git log'
 alias gc='git checkout'
 
