@@ -24,5 +24,9 @@ alias caen='ssh caen'
 # git
 alias st='git status'
 alias com='git commit -a -m'
+alias git-nuke='git clean -qdxff'
+alias git-init='git submodule update --init --recursive --progress'
+alias git-deinit='git submodule deinit -f .'
+alias git-log='git log --oneline | head'
 
 # apps and links
